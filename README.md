@@ -4,7 +4,9 @@ Challenge refractoring the codebase.
 
 ## Contents
 
-> - [MAIN Display](https://github.com/bcot-code/Horiseon-Seo-Company/tree/main#screenshot) -[Page live](https://github.com/bcot-code/Horiseon-Seo-Company/tree/main#website)
+> - [MAIN Display](https://github.com/bcot-code/Horiseon-Seo-Company/tree/main#screenshot)
+>
+> - [Page live](https://github.com/bcot-code/Horiseon-Seo-Company/tree/main#website)
 
 ## Description
 
