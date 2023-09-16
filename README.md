@@ -2,6 +2,10 @@
 
 Challenge refractoring the codebase.
 
+## Contents
+
+> - [MAIN Display](https://github.com/bcot-code/Horiseon-Seo-Company/tree/main#screenshot) -[Page live](https://github.com/bcot-code/Horiseon-Seo-Company/tree/main#website)
+
 ## Description
 
 AS A marketing agency, Horiseon
@@ -29,4 +33,6 @@ SO THAT website is optimized for search engines
 
 ## Website:
 
-> - My website - In process...
+> - Github LIVE - in process...
+
+##
