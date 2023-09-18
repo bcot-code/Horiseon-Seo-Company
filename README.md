@@ -35,6 +35,8 @@ SO THAT website is optimized for search engines
 
 ## Website:
 
-> - Github LIVE - in process...
+> - Github LIVE website pg- https://bcot-code.github.io/Horiseon-Seo-Company/
 
-##
+## MY Github URL
+
+![Github Url](https://github.com/bcot-code/Horiseon-Seo-Company)
